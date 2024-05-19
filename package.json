@@ -1,0 +1,39 @@
+{
+    "name": "crates",
+    "version": "0.1.0",
+    "description": "Consistent, simple and easy to use data handling for Node.js",
+    "main": "dist/index.js",
+    "scripts": {
+        "build": "tsc",
+        "format": "prettier --write ."
+    },
+    "engines": {
+        "node": ">=16.x"
+    },
+    "author": "Ethan Davies <github@ethandavies.co.uk>",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ethan-davies/crates.git"
+    },
+    "homepage": "https://github.com/ethan-davies/crates#readme",
+    "dependencies": {
+        "nodemon": "^3.1.0",
+        "prettier": "^3.2.5"
+    },
+    "devDependencies": {
+        "@types/node": "^20.12.7",
+        "ts-node": "^10.9.2",
+        "tsc-alias": "^1.8.10",
+        "typescript": "^5.4.5"
+    },
+    "bugs": {
+        "url": "https://github.com/ethan-davies/crates/issues"
+    },
+    "keywords": [
+        "crates",
+        "data",
+        "npm",
+        "typescript"
+    ]
+}
