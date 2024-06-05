@@ -1,7 +1,7 @@
 {
     "name": "@ethan-davies/crates",
     "version": "0.1.0",
-    "description": "Consistent, simple and easy to use data handling for Node.js",
+    "description": "Easy way to handle and manage data in your projects",
     "main": "dist/index.js",
     "scripts": {
         "build": "tsc",
