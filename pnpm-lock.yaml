@@ -7,7 +7,7 @@ settings:
 dependencies:
   nodemon:
     specifier: ^3.1.0
-    version: 3.1.3
+    version: 3.1.4
   prettier:
     specifier: ^3.2.5
     version: 3.3.2
@@ -318,8 +318,8 @@ packages:
     engines: {node: '>=12.0.0'}
     dev: true
 
-  /nodemon@3.1.3:
-    resolution: {integrity: sha512-m4Vqs+APdKzDFpuaL9F9EVOF85+h070FnkHVEoU4+rmT6Vw0bmNl7s61VEkY/cJkL7RCv1p4urnUDUMrS5rk2w==}
+  /nodemon@3.1.4:
+    resolution: {integrity: sha512-wjPBbFhtpJwmIeY2yP7QF+UKzPfltVGtfce1g/bB15/8vCGZj8uxD62b/b9M9/WVgme0NZudpownKN+c0plXlQ==}
     engines: {node: '>=10'}
     hasBin: true
     dependencies:
